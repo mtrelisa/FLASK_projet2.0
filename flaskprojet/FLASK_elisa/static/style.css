@@ -1,0 +1,53 @@
+h1
+{	
+	text-align: left;
+	background-color: rgb(255, 99, 71, 0.2);
+	font-family:"Times New Roman",Times,serif;
+	color: rgb(255, 99, 71, 0.8); 
+	/*color: blue; */
+	border-style: solid;
+  border-color: purple;
+}
+
+p
+{
+	font-family: "Times New Roman",Times,serif;
+	color: rgb(255, 99, 71, 1);
+	background-color: pink;
+}
+
+html
+{	
+	background-color: pink;
+	/*background-image : url('/images/barre_saisie.png') ;*/
+	
+}
+
+img
+{
+	border-style: outset;
+	border-color: rgb(255, 99, 71, 0.8);
+	border-width: 10px;
+}
+
+a
+{	
+	font-family: "Times New Roman",Times,serif;
+	color: white;
+	background-color:black;
+
+}
+
+ul
+{
+	font-family: "Times New Roman",Times,serif;
+	color: rgb(255, 99, 71, 0.8);
+	background-color: pink;
+}
+
+#u1
+{
+	font-family: "Times New Roman",Times,serif;
+	color: rgb(255, 99, 71, 1);
+	background-color: pink;
+}
